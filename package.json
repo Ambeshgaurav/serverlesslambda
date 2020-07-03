@@ -11,8 +11,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "async": "^3.2.0",
     "aws-serverless-express": "^3.3.6",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongodb": "^3.5.9",
+    "mongoose": "^5.9.21"
   },
   "devDependencies": {
     "serverless": "^1.50.1"
